@@ -5,7 +5,7 @@ function EventsComponent() {
 
   let images = [
     {
-      "src" : "C:/Users/ROSLINE/Desktop/javafull stack/React/website/website/src/assets/images/culturals.jpg",
+      "src" : "src/assets/images/culturals.jpg",
       "alt" : "Culturals",
       "title" : "Culturals",
       "content" : "A weekend filled with music from top bands and artists."
