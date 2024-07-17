@@ -1,0 +1,34 @@
+.events-pg-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 6vh;
+}
+
+.event-list{
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  align-items: center;
+  justify-content: center;
+}
+.event-item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border: 3px solid gray;
+  width: 45vw;
+  height: 55vh;
+  margin: 1vh;
+}
+
+
+img{
+  width: 70%;
+  height: 70%;
+}
+
+h1{
+  text-align: center;
+}

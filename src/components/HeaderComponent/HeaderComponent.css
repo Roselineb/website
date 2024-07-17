@@ -1,0 +1,14 @@
+.header{
+    height: 10vh;
+    background-color: gray;
+    border: 1px solid black;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 2vh;
+}
+
+.header img{
+    width: 10vh;
+    height: 10vh;
+}

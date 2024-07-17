@@ -1,0 +1,9 @@
+.link-deco{
+    text-decoration: none;
+    color: white;
+    font-size: 1.25em;
+}
+
+.link-deco:hover{
+    color: lightblue;
+}

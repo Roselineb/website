@@ -1,0 +1,19 @@
+.clg-pic{
+    background-image: url('src/assets/images/Saveetha.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.home-pg-content{
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
