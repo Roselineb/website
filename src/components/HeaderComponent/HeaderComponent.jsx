@@ -6,7 +6,7 @@ const HeaderComponent = () => {
   return (
     <div className='header'>
         <div><NavComponent/></div>
-        <img src='src/assets/images/logo.jpeg' alt='logo'/>
+        <img src='C:/Users/ROSLINE/Desktop/javafull stack/React/website/website/src/assets/images/logo.jpeg' alt='logo'/>
     </div>
   )
 }

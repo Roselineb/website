@@ -5,25 +5,25 @@ function EventsComponent() {
 
   let images = [
     {
-      "src" : "src/assets/images/culturals.jpg",
+      "src" : "C:/Users/ROSLINE/Desktop/javafull stack/React/website/website/src/assets/images/culturals.jpg",
       "alt" : "Culturals",
       "title" : "Culturals",
       "content" : "A weekend filled with music from top bands and artists."
     },
     {
-      "src" : "src/assets/images/art-exhibition.jpg",
+      "src" : "C:/Users/ROSLINE/Desktop/javafull stack/React/website/website/src/assets/images/art-exhibition.jpg",
       "alt" : "Art exhibition",
       "title" : "Art Exhibition",
       "content" : "A display of the finest art from upcoming artists."
     },
     {
-      "src" : "src/assets/images/science-fair.jpg",
+      "src" : "C:/Users/ROSLINE/Desktop/javafull stack/React/website/website/src/assets/images/science-fair.jpg",
       "alt" : "Science fair",
       "title" : "Science fair",
       "content" : "A showcase of the latest scientific discoveries and projects by students."
     },
     {
-      "src" : "src/assets/images/sports-day.jpg",
+      "src" : "C:/Users/ROSLINE/Desktop/javafull stack/React/website/website/src/assets/images/sports-day.jpg",
       "alt" : "Sports day",
       "title" : "Sports day", 
       "content" : "An exciting day of sports activities and competitions."
